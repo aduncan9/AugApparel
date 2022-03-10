@@ -16,7 +16,7 @@ android {
     }
 
     defaultConfig {
-        minSdkVersion 19
+        minSdkVersion 23
         targetSdkVersion 31
         applicationId 'com.AugmentedApparel.AugUnity'
         ndk {
